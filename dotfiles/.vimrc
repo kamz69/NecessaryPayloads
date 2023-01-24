@@ -72,7 +72,7 @@ set fillchars=vert:│
 syntax on
 
 " Allow mouse use in vim
-"set mouse=a
+set mouse=a
 
 " Enable line wrapping
 "set wrap
