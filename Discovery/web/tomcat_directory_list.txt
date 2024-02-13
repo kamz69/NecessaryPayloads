@@ -191,3 +191,4 @@ shared/..;/shared/
 shared/..;/shared/lib/
 RELEASE-NOTES.txt
 ..;/RELEASE-NOTES.txt
+//WEB-INF/web.xml
