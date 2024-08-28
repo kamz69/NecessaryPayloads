@@ -1,0 +1,2 @@
+# Config file dedicated to the user's personal history shared between all exegol containers
+gobuster dir -w /opt/my-resources/NecessaryPayloads/Discovery/web/raft-medium-files.txt -u http://192.168.56.0:8000/ --exclude-length 0
