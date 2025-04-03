@@ -1,2 +1,4 @@
 # Config file dedicated to the user's personal aliases shared between all exegol containers
 
+#personnal alias for fzf in personnal wordlists
+alias fzf-wordlists-my='find /opt/my-resources/NecessaryPayloads -type f | fzf'
