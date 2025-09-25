@@ -1,4 +1,6 @@
 # Config file dedicated to the user's personal aliases shared between all exegol containers
+#ip publique
+alias ipapub='curl -4 -s https://ifconfig.me'
 
 #personnal alias for fzf in personnal wordlists
 alias fzf-wordlists-my='find /opt/my-resources/NecessaryPayloads -type f | fzf'
